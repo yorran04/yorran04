@@ -4,7 +4,7 @@ Olá, me chamo Yorran Alves.✨  <br><br>Sejam bem-vindos ao meu github!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/https://www.linkedin.com/in/yorran-alves-969435142/(https://www.linkedin.com/in/yorran-alves-969435142/))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/https://www.linkedin.com/in/yorran-alves-969435142/(https://www.linkedin.com/in/yorran-alves-969435142/)]
 
 
 # 💻 Tech Stack:
