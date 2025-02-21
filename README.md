@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou  o Yorran!<br><br>Desenvolvedor Front-End apaixonado por criar interfaces modernas, acessíveis e responsivas. Tenho experiência com HTML, CSS, JavaScript, React, entre outras tecnologias do ecossistema front-end.<br><br>Sempre buscando aprender e aprimorar minhas habilidades, explorando novas tendências e boas práticas no desenvolvimento web.</h2>
+<h3 align="left">Olá, eu sou  o Yorran!<br><br>Desenvolvedor Front-End apaixonado por criar interfaces modernas, acessíveis e responsivas. Tenho experiência com HTML, CSS, JavaScript, React, entre outras tecnologias do ecossistema front-end.<br><br>Sempre buscando aprender e aprimorar minhas habilidades, explorando novas tendências e boas práticas no desenvolvimento web.</h3>
 
 ###
 
@@ -49,18 +49,14 @@
 
 ###
 
-<p align="left">Projetos Pessoais.</p>
-
-###
-
-<img align="right" height="200" src="https://github.com/user-attachments/assets/2bc41a07-f26f-4095-b714-a93d322c0e6d"  />
-
-###
-
-<img align="left" height="200" src="https://github.com/user-attachments/assets/c3a7137f-2b70-44a4-a1e9-7dedcfde7f99"  />
+<h3 align="left">Projetos Pessoais.</h3>
 
 ###
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/dd5ca3f9-3ae9-476f-ace2-05e38855889d"  />
+
+###
+
+<img align="left" height="200" src="https://github.com/user-attachments/assets/c3a7137f-2b70-44a4-a1e9-7dedcfde7f99"  />
 
 ###
